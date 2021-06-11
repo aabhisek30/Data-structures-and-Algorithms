@@ -1,6 +1,6 @@
 # Data-structures-and-Algorithms
 
-I have implemented Dynamic and Greedy algorithms 
+I have implemented various Dynamic and Greedy algorithms 
 
 ## Dynamic programming
 
